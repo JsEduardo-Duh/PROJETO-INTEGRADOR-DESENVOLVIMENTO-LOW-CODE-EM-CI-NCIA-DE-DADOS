@@ -1,0 +1,15 @@
+Definição da base de dados:
+Para este projeto, foi escolhida a base de dados Netflix Movies and TV Shows, que está disponível na plataforma Kaggle. Essa base reúne informações sobre filmes e séries que fazem parte do catálogo da Netflix.
+Ela possui milhares de registros e várias colunas com dados importantes sobre cada título, como nome do filme ou série, diretor, elenco, país de produção, ano de lançamento, classificação indicativa, duração, entre outras informações. Esses dados permitem realizar diferentes tipos de análises sobre o conteúdo disponível na plataforma.
+
+Contexto da base de dados:
+Nos últimos anos, as plataformas de streaming cresceram muito e mudaram bastante a forma como as pessoas assistem filmes e séries. Em vez de depender apenas da televisão ou do cinema, hoje muitas pessoas assistem conteúdo online, quando e onde quiserem.
+A Netflix é uma das plataformas mais conhecidas desse tipo e possui um grande catálogo de produções de diversos países. Por isso, essa base de dados é interessante para análise, pois permite observar características do catálogo, como os tipos de conteúdo mais comuns, os gêneros mais presentes e como a quantidade de produções foi mudando ao longo do tempo.
+
+Origem de dados:
+Os dados utilizados neste trabalho foram retirados do dataset Netflix Movies and TV Shows, disponível publicamente na plataforma Kaggle. Esse conjunto de dados foi publicado por Shivam Bansal e reúne informações sobre títulos que fazem ou já fizeram parte do catálogo da Netflix.
+A base possui aproximadamente 8.800 registros, incluindo filmes e séries, e apresenta diversas informações sobre cada produção, como título, diretor, elenco, país de origem, ano de lançamento, classificação indicativa e duração.
+
+Objetivo da analise:
+O principal objetivo deste projeto é realizar uma análise exploratória dos dados relacionados aos filmes e séries disponíveis na Netflix. A ideia é utilizar os dados para entender melhor algumas características do catálogo da plataforma.
+Durante a análise, serão observados pontos como a quantidade de filmes e séries disponíveis, quais gêneros aparecem com mais frequência, como o número de lançamentos foi variando ao longo dos anos e também como as produções estão distribuídas entre diferentes países. Dessa forma, será possível identificar alguns padrões e ter uma visão mais geral sobre o conteúdo presente na plataforma.
